@@ -1,0 +1,15 @@
+.footerDiv{
+    display: flex;
+    width: 500px;
+    justify-content: space-between;
+    font-size: 20px;
+    height: auto;
+    margin: 10px 40px;
+    
+    
+}
+i{
+    margin: 0, 20px;
+    font-weight: 100;
+    color: gray;
+}

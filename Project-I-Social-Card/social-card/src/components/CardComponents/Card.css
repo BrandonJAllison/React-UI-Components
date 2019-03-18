@@ -1,1 +1,23 @@
 /* All styles for your Card Components live here */
+
+.banner {
+    width: 650px;
+    height: 300px;
+    border-radius: 12px 12px 0 0 ;
+}
+
+.container{
+    margin-top: 10px;
+    border: 1px solid gray;
+    border-top: none;
+    height: auto;
+    width: 649px;
+    border-radius: 12px;
+}
+p{
+    margin:2.5px 10px;
+    }
+
+h3{
+    margin: 2.5px 10px;
+}
