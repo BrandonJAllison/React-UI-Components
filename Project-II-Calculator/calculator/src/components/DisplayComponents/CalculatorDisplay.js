@@ -3,18 +3,21 @@ import './Display.css';
 import styled from 'styled-components'
 
 const StyledDiv = styled.div`
-height: 40px;
+height: 100px;
 background-color: black;
-width: 200px;
-font-size: 30px;
+width: 400px;
+font-size: 80px;
 color: white;
-text-align: right;
+display:flex;
+justify-content: flex-end;
+align-items: center;
+
 `
 
 const CalculatorDisplay = (props) => {
     return (      
          <StyledDiv className="calculatorDisplay">{props.input}</StyledDiv>
-                );
+            );
 };
 
 
