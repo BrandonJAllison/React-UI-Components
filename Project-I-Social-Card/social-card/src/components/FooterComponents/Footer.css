@@ -1,0 +1,25 @@
+.footerDiv {
+    display: flex;
+    width: 650px;
+    
+    text-align: left;
+    font-size: 20px;
+    height: auto;
+    margin: 10px 40px;
+    color: gray;
+
+
+
+}
+
+.footerDiv i {
+   
+   margin-right:70px;
+   margin-top: 15px;
+    
+}
+
+.liked{
+    color: pink;
+}
+
